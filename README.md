@@ -1,4 +1,4 @@
-# 🎉 Congratulations! You've Discovered an Easter Egg! 🎉
+# 🎉 Congratulations! You've Discovered an Easter Egg!
 
 During your pursuit in the Digital Detective Cryptic Hunt, you've stumbled upon a hidden Easter Egg, and we want to reward your keen detective skills!
 
