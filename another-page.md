@@ -2,23 +2,26 @@
 layout: default
 ---
 
-# **Cryptic Markdown Challenge**
 
-🕵️ **Welcome, Digital Detectives!**
 
-As you embark on this cryptic journey, the secrets you seek are cleverly concealed within the formatting. Decrypt the hidden clues to unveil the path that leads to the identity of the elusive hacker.
+# 🕵️ **Welcome, Digital Detectives!**
+
+As you embark on this cryptic journey, the secrets you seek are cleverly concealed. Decrypt the hidden clues to unveil the path that leads to the identity of the elusive hacker.
 
 ---
 
-## 🌐 Puzzle 1: Name of the Hacker
+## 🌐 Puzzle 1:
 
-In the shadowy realm of cyberspace, the hacker's identity remains obscured. Look closely, and you may find the first piece of the puzzle hidden within the following lines:
+🕵️ **The Dragon's Cipher**
 
-```markdown
-**The _digital_ shadow lurks**
-**In letters, the truth works**
-**Reverse the `signs`, seek the light**
-**Unveil the name, shining bright**
+In the vast expanse of the digital realm, an ancient cipher guards the sanctum of a mythical creature. Picture the binary winds swirling around the scales of a cybernetic dragon, each digit a shimmering piece of its metallic armor.
+
+Embark on this quest, Digital Detective, and may the mythical dragon's cipher reveal its secrets to those who can unlock the mysteries of the digital lair. 🐉🔓
+
+-Mati Ahroni
+
+
+
 
 
 _yay_
