@@ -88,6 +88,9 @@ Good luck, and may the best detective team emerge victorious!
 
 
 # Your Journey Begins Here
-[First Clue](./another-page.html).
+
+### First Clue
+
+
 
 

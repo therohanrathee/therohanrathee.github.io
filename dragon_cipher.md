@@ -6,6 +6,8 @@ layout: default
 
 # 🕵️ **Welcome, Digital Detectives!**
 
+You have sucessfully Decoded the First Clue
+
 As you embark on this cryptic journey, the secrets you seek are cleverly concealed. Decrypt the hidden clues to unveil the path that leads to the identity of the elusive hacker.
 
 ---
@@ -18,12 +20,7 @@ In the vast expanse of the digital realm, an ancient cipher guards the sanctum o
 
 Embark on this quest, Digital Detective, and may the mythical dragon's cipher reveal its secrets to those who can unlock the mysteries of the digital lair. 🐉🔓
 
--Mati Ahroni
 
 
 
 
-
-_yay_
-
-[back](./)
