@@ -12,7 +12,7 @@ Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 # 🕵️ **Welcome to the Digital Detective Cryptic Hunt! 🕵️**
 
-## 🚨 **Attention all codebreakers, puzzle enthusiasts, and digital detectives!** 🚨
+🚨 **Attention all codebreakers, puzzle enthusiasts, and digital detectives!** 🚨
 
 🌐 The school website has fallen victim to a cunning hacker who has disrupted our digital haven! The cyber miscreant has left us in the dark, and it's up to you, our brilliant investigators, to shine a light on this digital mystery.
 
@@ -22,11 +22,11 @@ Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 🎉 Prizes await those who successfully unveil the secrets hidden in the digital labyrinth, and eternal glory as the saviors of our school's virtual sanctum is within your grasp.
 
-📆 Save the date, clear your schedules, and prepare for an adventure like no other! The hunt begins [insert date and time], and the countdown to justice starts now.
+📆 Save the date, clear your schedules, and prepare for an adventure like no other! The hunt begins , and the countdown to justice starts now.
 
 🌐 **Are you ready to become a Digital Detective? Join us on this thrilling quest as we unmask the hacker and restore order to our digital domain!** 🌐
 
-*Stay tuned for updates, and may the code-breaking force be with you!* 🔒🔓
+*Stay tuned on [Discord](https://discord.gg/JwDdBP3mdx) for updates, and may the code-breaking force be with you!* 🔒🔓
 
 
 
