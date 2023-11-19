@@ -12,7 +12,7 @@ Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 # 🕵️ **Welcome to the Digital Detective Cryptic Hunt! 🕵️**
 
-🚨 **Attention all codebreakers, puzzle enthusiasts, and digital detectives!** 🚨
+## 🚨 **Attention all codebreakers, puzzle enthusiasts, and digital detectives!** 🚨
 
 🌐 The school website has fallen victim to a cunning hacker who has disrupted our digital haven! The cyber miscreant has left us in the dark, and it's up to you, our brilliant investigators, to shine a light on this digital mystery.
 
@@ -36,9 +36,7 @@ Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 
 
-There should be whitespace between paragraphs.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # Header 1
 
