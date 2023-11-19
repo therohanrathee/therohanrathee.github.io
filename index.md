@@ -29,6 +29,17 @@ Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 *Stay tuned on [Discord](https://discord.gg/JwDdBP3mdx) for updates, and may the code-breaking force be with you!* 🔒🔓
 
 
+## Point System
+
+| Task                | Points |
+|:--------------------|:-------|
+| Name of Hacker      | 20     |
+| IP of Hacker        | 20     |
+| OS of Hacker        | 20     |
+| Image of Hacker     | 40     |
+| `Hint`              | -5     |
+| `Obvious Statement` | -10    |
+
 
 
 
