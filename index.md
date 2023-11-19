@@ -28,7 +28,7 @@ layout: default
 
 *Stay tuned on [Discord](https://discord.gg/JwDdBP3mdx) for updates, and may the code-breaking force be with you!* 🔒🔓
 
-***
+---
 
 # Digital Detective Cryptic Hunt Rules
 
