@@ -29,6 +29,48 @@ Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 *Stay tuned on [Discord](https://discord.gg/JwDdBP3mdx) for updates, and may the code-breaking force be with you!* 🔒🔓
 
 
+# Digital Detective Cryptic Hunt Rules
+
+🔍 **Rule 1: Fair Play and Sportsmanship**
+- Play fair and encourage sportsmanship. Cheating or unfair practices will not be tolerated.
+
+🚫 **Rule 2: Spoiler-Free Zone**
+- Keep the game enjoyable for everyone by refraining from sharing spoilers or direct answers in public channels.
+
+🤝 **Rule 3: Team Collaboration**
+- Teams are encouraged! Work together, share ideas, and collaborate to crack the puzzles. But remember, there can only be one winning team.
+
+⏰ **Rule 4: Time Limit**
+- The hunt has a designated start and end time. Make sure to submit your final answers within the specified timeframe.
+
+💬 **Rule 5: Communication Channels**
+- Use the designated channels for specific purposes (e.g., #general for announcements, #puzzle-1 for the first puzzle). Keep discussions relevant to the hunt.
+
+🤔 **Rule 6: Hint Requests**
+- If you're stuck, feel free to ask for hints in the designated hint channel. Moderators will provide subtle nudges to help you along.
+
+🏆 **Rule 7: Prizes**
+- Prizes will be awarded to the winning team. Details about prizes will be announced before or during the event.
+
+📸 **Rule 8: Respect Privacy**
+- Avoid sharing personal information of participants or making the hunt about real individuals. Keep the focus on the game.
+
+❓ **Rule 9: Questions and Concerns**
+- If you have any questions or encounter issues, reach out to the moderators in the #queries channel.
+
+👥 **Rule 10: Team Size**
+- Team sizes are be limited. Maximum of 2 Participants are allowed per Team
+
+📢 **Rule 11: Updates**
+- Stay tuned for announcements and updates. These may include additional hints, changes in schedule, or important information.
+
+🎉 **Rule 12: Have Fun!**
+- Most importantly, have fun! Enjoy the challenges, celebrate your victories, and embrace the thrill of the Digital Detective Cryptic Hunt.
+
+Good luck, and may the best detective team emerge victorious!
+
+
+
 ## Point System
 
 | Task                | Points |
