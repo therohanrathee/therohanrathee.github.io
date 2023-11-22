@@ -74,14 +74,18 @@ Good luck, and may the best detective team emerge victorious!
 
 ## Point System
 
-| Task                | Points |
-|:--------------------|:-------|
-| Name of Hacker      | 20     |
-| IP of Hacker        | 20     |
-| OS of Hacker        | 20     |
-| Image of Hacker     | 40     |
-| `Hint`              | -5     |
-| `Obvious Statement` | -10    |
+| Task                        | Points |
+|:----------------------------|:-------|
+| OS of Hacker                | 20     |
+| Twitter Handle of Hacker    | 20     |
+| Instagram Handle of Hacker  | 20     |
+| Email of Hacker             | 20     | 
+| IP of Hacker                | 20     |
+| Name of Hacker              | 20     |
+| Live Location of Hacker     | 30     |
+| Image of Hacker             | 40     |
+| Hint                        | -5     |
+| Obvious Statement           | -10    |
 
 
 ***
