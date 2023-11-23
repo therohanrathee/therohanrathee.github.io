@@ -8,7 +8,7 @@ layout: default
 
 
 ---
-
+#
 ## Chirality
 
 In chemistry, a molecule or ion is called chiral (/ˈkaɪrəl/) if it cannot be superposed on its mirror image by any com*b*ination of rotations, translations, and some conformational changes. This geometr*i*c property is called chirality (/kaɪˈrælɪti/). The terms are derived from Ancient Greek χείρ (cheir) 'hand'; which is the canonical example of an object with this proper*t.*y.
