@@ -91,7 +91,7 @@ Good luck, and may the best detective team emerge victorious!
 ***
 
 
-# Your Journey Begins Here
+# [Your Journey Begins Here](https://i.imgur.com/0jbVKRd.jpg)
 
 ### First Clue
 
