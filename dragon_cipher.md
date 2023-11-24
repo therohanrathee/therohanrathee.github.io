@@ -14,12 +14,9 @@ As you embark on this cryptic journey, the secrets you seek are cleverly conceal
 
 ## 🌐 Puzzle 1:
 
-🕵️ **The Dragon's Cipher**
+[Imgur](https://i.imgur.com/o08TNgG.png)
 
-In the vast expanse of the digital realm, an ancient cipher guards the sanctum of a mythical creature. Picture the binary winds swirling around the scales of a cybernetic dragon, each digit a shimmering piece of its metallic armor.
-
-Embark on this quest, Digital Detective, and may the mythical dragon's cipher reveal its secrets to those who can unlock the mysteries of the digital lair. 🐉🔓
-
+### 01110001 01110101 01101001 01100101 01110100 01100101 01110010
 
 
 [What is the Hacker's Operating System ?](https://drive.google.com/file/d/1sk8jLY9gRaBmLS3ObQJ_JQ4EvgqeZt37/view?usp=sharing)
