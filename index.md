@@ -45,13 +45,13 @@ layout: default
 - The hunt has a designated start and end time. Make sure to submit your final answers within the specified timeframe.
 
 💬 **Rule 5: Communication Channels**
-- Use the designated channels for specific purposes (e.g., #general for announcements, #puzzle-1 for the first puzzle). Keep discussions relevant to the hunt.
+- Use the designated channels for specific purposes (e.g., #announcements for announcements, #general for discussion). Keep discussions relevant to the hunt.
 
 🤔 **Rule 6: Hint Requests**
-- If you're stuck, feel free to ask for hints in the designated hint channel. Moderators will provide subtle nudges to help you along.
+- If you're stuck, feel free to ask for hints. To ask for Hints DM your query to the Hints Bot
 
 🏆 **Rule 7: Prizes**
-- Prizes will be awarded to the winning team. Details about prizes will be announced before or during the event.
+- Prizes will be awarded to the winning team. Details about prizes will be announced after the Event.
 
 📸 **Rule 8: Respect Privacy**
 - Avoid sharing personal information of participants or making the hunt about real individuals. Keep the focus on the game.
@@ -80,11 +80,11 @@ Good luck, and may the best detective team emerge victorious!
 | Twitter Handle of Hacker    | 20     |
 | Instagram Handle of Hacker  | 20     |
 | Email of Hacker             | 20     | 
-| IP of Hacker                | 20     |
+| IP of Hacker                | 30     |
 | Image of Hacker             | 40     |
 | Name of Hacker              | 40     |
 | Hint                        | -5     |
-| Obvious Statement           | -10    |
+| Obvious Statement           | -15    |
 
 
 ***
