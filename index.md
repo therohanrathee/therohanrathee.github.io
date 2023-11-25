@@ -81,9 +81,8 @@ Good luck, and may the best detective team emerge victorious!
 | Instagram Handle of Hacker  | 20     |
 | Email of Hacker             | 20     | 
 | IP of Hacker                | 20     |
-| Name of Hacker              | 20     |
-| Live Location of Hacker     | 30     |
 | Image of Hacker             | 40     |
+| Name of Hacker              | 40     |
 | Hint                        | -5     |
 | Obvious Statement           | -10    |
 
