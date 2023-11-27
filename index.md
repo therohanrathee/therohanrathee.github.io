@@ -38,8 +38,8 @@ layout: default
 🚫 **Rule 2: Spoiler-Free Zone**
 - Keep the game enjoyable for everyone by refraining from sharing spoilers or direct answers in public channels.
 
-🤝 **Rule 3: Team Collaboration**
-- Teams are encouraged! Work together, share ideas, and collaborate to crack the puzzles. But remember, there can only be one winning team.
+🤝 **Rule 3: Collaboration**
+- You are only allowed to work in the pre-registered teams, Teams found guilty of sharing answers or hints in any form may get disqualified.
 
 ⏰ **Rule 4: Time Limit**
 - The hunt has a designated start and end time. Make sure to submit your final answers within the specified timeframe.
