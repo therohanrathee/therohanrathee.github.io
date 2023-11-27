@@ -20,7 +20,7 @@ To claim your free hint, follow these steps:
    - Send the screenshot to the moderators while requesting for hint.
 
 🕵️‍♂️ **Note:**
-- Only one free hint per participant.
+- Only one free hint per team.
 - Ensure that your screenshot clearly shows the follow status.
 
 🎊 Once verified, you'll receive your free hint to assist you in cracking the next challenge. Happy hunting!
