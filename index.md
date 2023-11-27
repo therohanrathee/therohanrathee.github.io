@@ -32,8 +32,8 @@ layout: default
 
 # Digital Detective Cryptic Hunt Rules
 
-🔍 **Rule 1: Fair Play and Sportsmanship**
-- Play fair and encourage sportsmanship. Cheating or unfair practices will not be tolerated.
+🔍 **Rule 1: Fair Play**
+- Cheating or unfair practices will not be tolerated.
 
 🚫 **Rule 2: Spoiler-Free Zone**
 - Keep the game enjoyable for everyone by refraining from sharing spoilers or direct answers in public channels.
